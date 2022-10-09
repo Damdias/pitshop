@@ -6,8 +6,47 @@
 
 <div class="text-center">
     <div>
-    <h1 class="display-5">Workshop management - overview</h1>
+        <h1 class="display-5">Workshop management - overview</h1>
     </div>
-    <div >
+    <div>
+        <button><</button>
+        <label>Date </label>
+        <button>></button>
+    </div>
+    <div>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Status
+                    </th>
+                    <th>
+                        Start Time
+                    </th>
+                    <th>
+                        End Time
+                    </th>
+                    <th>
+                        Vehicle
+                    </th>
+                    <th>
+                        Description
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach(var shop in Model.WorkShops!){
+                    <tr>
+                        <td>@shop.Status</td>
+                        <td>@shop.StartTime</td>
+                        <td>@shop.EndTime</td>
+                        <td>@shop.Vehicle</td>
+                        <td>@shop.Description</td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+        <h1>@Model.WorkShops?.Count()</h1>
     </div>
 </div>

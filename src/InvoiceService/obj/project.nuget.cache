@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PNN4IcowMI+Q6BZHUvLPlPUQc1i466Owv7UOAsRuvxXyexhUH6LOf3j1Mq4lqHh137zdJjpf8INn2aoxWid1+w==",
+  "dgSpecHash": "C9rh7JZECCvs0UcblihBrrCu6JEuqtoctLDGLI6bFNh6i24J4IjYo44K9vUA/1DUE/W51heckbKFRcCt5HnWFQ==",
   "success": true,
-  "projectFilePath": "/Users/damith/devs/C#/pitshop/src/InvoiceService/InvoiceService.csproj",
+  "projectFilePath": "D:\\devs\\dotnetcore\\pitshop\\src\\InvoiceService\\InvoiceService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

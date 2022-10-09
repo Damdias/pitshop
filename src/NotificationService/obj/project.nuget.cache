@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wX1GeU94ae/ZhE+57YZY/ZOnP3NhIt6U0hjzfFF941iPshGoEMvf4O7IylJCz1i457+IrMDWswprgPKJtzkQPA==",
+  "dgSpecHash": "b/UsYzJT7l++gWCzbh71641y/YeQLsr4YBLQWkwlEHpT2pQgAwPUrHHM7aZAnFg6rkWuCHuTtKsT9oVzZe4OMg==",
   "success": true,
-  "projectFilePath": "/Users/damith/devs/C#/pitshop/src/NotificationService/NotificationService.csproj",
+  "projectFilePath": "D:\\devs\\dotnetcore\\pitshop\\src\\NotificationService\\NotificationService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

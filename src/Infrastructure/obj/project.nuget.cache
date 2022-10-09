@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yfmkemw2M0WC75OvoeQwHrQwEN2+uEOak+AlQddI8c9/0AE2ZUZvKyYdLuK9pfbXIQ9u/FkClru2jflL8aO9Mw==",
+  "dgSpecHash": "lIx+CmqGui6BzROeLdcL/ZbXRdDb1zxZBvCyyOc5omyB+iJ2tj+1GnZRSpVrzcsMHu+OtDsA07gy0lY1tu+Ong==",
   "success": true,
-  "projectFilePath": "/Users/damith/devs/C#/pitshop/src/Infrastructure/Infrastructure.csproj",
+  "projectFilePath": "D:\\devs\\dotnetcore\\pitshop\\src\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
